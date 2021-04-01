@@ -1,0 +1,24 @@
+[submodule "Time-Series-For-Airport-Visits"]
+	path = Time-Series-For-Airport-Visits
+	url = https://github.com/afiliot/Time-Series-For-Airport-Visits.git
+[submodule "Balanced-Graph-Matching"]
+	path = Balanced-Graph-Matching
+	url = https://github.com/afiliot/Balanced-Graph-Matching.git
+[submodule "Text-Generation"]
+	path = Text-Generation
+	url = https://github.com/afiliot/Text-Generation.git
+[submodule "Non-Linear-Dimensionality-Reduction"]
+	path = Non-Linear-Dimensionality-Reduction
+	url = https://github.com/afiliot/Non-Linear-Dimensionality-Reduction.git
+[submodule "Preference-Learning-And-Movie-Reviews"]
+	path = Preference-Learning-And-Movie-Reviews
+	url = https://github.com/afiliot/Preference-Learning-And-Movie-Reviews.git
+[submodule "Racial-Inequalities-On-Employability"]
+	path = Racial-Inequalities-On-Employability
+	url = https://github.com/afiliot/Racial-Inequalities-On-Employability.git
+[submodule "EM-Algorithm-And-Gaussian-Pooling"]
+	path = EM-Algorithm-And-Gaussian-Pooling
+	url = https://github.com/afiliot/EM-Algorithm-And-Gaussian-Pooling.git
+[submodule "Iceberg-Classifier-Challenge"]
+	path = Iceberg-Classifier-Challenge
+	url = https://github.com/afiliot/Iceberg-Classifier-Challenge.git
